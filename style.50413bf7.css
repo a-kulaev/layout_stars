@@ -1,0 +1,2 @@
+*{box-sizing:border-box}.body{margin:0}.stars{display:flex}.stars_star{width:16px;height:16px;background-image:url(star.040e0f1e.svg);background-repeat:no-repeat;background-position:50%}.stars_star:not(:first-child){margin-left:4px}.stars--1 :not(:nth-of-type(n+2)),.stars--2 :not(:nth-of-type(n+3)),.stars--3 :not(:nth-of-type(n+4)),.stars--4 :not(:nth-of-type(n+5)),.stars--5 :not(:nth-of-type(n+6)){background-image:url(star-active.3d99ddfd.svg)}
+/*# sourceMappingURL=style.50413bf7.css.map */
